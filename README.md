@@ -10,8 +10,6 @@
 # 💻Tech Stack
   ![Sql](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
   ![Oracle Database](https://img.shields.io/badge/Oracle-Database-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-  
-# Screenshot
 
   
   
